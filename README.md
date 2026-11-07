@@ -56,13 +56,23 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" colspan="2">
+    <td align="center" valign="top">
       <br>
       <a href="https://ihideck.github.io/chronology/"><img src="images/chronology.png" width="64" height="64" alt="chronology"></a><br>
       <a href="https://ihideck.github.io/chronology/"><b>chronology</b></a><br>
       総理大臣・元号・偉人などの年表のあつまり<br>
       <code>JavaScript</code> <code>GitHub&nbsp;Pages</code><br>
       <a href="https://ihideck.github.io/chronology/"><img src="https://img.shields.io/badge/Web-FF7043?style=flat-square" alt="Web"></a>
+      <br><br>
+    </td>
+    <td align="center" valign="top">
+      <br>
+      <a href="https://ihideck.github.io/geojson/"><img src="images/geojson.png" width="64" height="64" alt="geojson"></a><br>
+      <a href="https://ihideck.github.io/geojson/"><b>geojson</b></a><br>
+      日本と世界の陸と海の境界を、地図や GIS で使える<br>
+      <code>Python</code> <code>GDAL</code> <code>MapLibre&nbsp;GL&nbsp;JS</code><br>
+      <a href="https://ihideck.github.io/geojson/"><img src="https://img.shields.io/badge/Web-FF7043?style=flat-square" alt="Web"></a>
+      <a href="https://github.com/iHideck/geojson"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
       <br><br>
     </td>
   </tr>
