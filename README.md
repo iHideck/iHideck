@@ -76,6 +76,17 @@
       <br><br>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="top" colspan="2">
+      <br>
+      <a href="https://github.com/iHideck/asc-mcp"><img src="images/asc-mcp.png" width="64" height="64" alt="asc-mcp"></a><br>
+      <a href="https://github.com/iHideck/asc-mcp"><b>asc-mcp</b></a><br>
+      App Store へのリリース作業を、Claude Code に頼める<br>
+      <code>TypeScript</code> <code>MCP</code> <code>App&nbsp;Store&nbsp;Connect&nbsp;API</code><br>
+      <a href="https://github.com/iHideck/asc-mcp"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+      <br><br>
+    </td>
+  </tr>
 </table>
 
 iOS アプリの一覧は [App Store の開発者ページ](https://apps.apple.com/jp/developer/hideki-ishikawa/id884748611) にあります。
