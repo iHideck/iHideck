@@ -4,8 +4,8 @@
 
 インフラ · バックエンド · フロントエンド · IoT · データ分析
 
-[![職務経歴書](https://img.shields.io/badge/職務経歴書-0969DA?style=flat-square&logo=github&logoColor=white)](https://github.com/iHideck/resume)
-[![Wantedly](https://img.shields.io/badge/Wantedly-21BDDB?style=flat-square&logo=wantedly&logoColor=white)](https://www.wantedly.com/users/29076609)
+[![職務経歴書](images/badges/resume.svg)](https://github.com/iHideck/resume)
+[![Wantedly](images/badges/wantedly.svg)](https://www.wantedly.com/users/29076609)
 
 ![使う技術](https://skillicons.dev/icons?i=terraform,aws,gcp,firebase,golang,python,fastapi,js,typescript,npm,yarn,react,vite,vitest,vue,nuxt,flutter,dart,ruby,rails,mysql,redis,dynamodb,docker,raspberrypi,html,css,php&perline=14)
 
@@ -21,7 +21,7 @@
       <a href="https://apps.apple.com/jp/app/id6826307654"><b>とれろぐ</b></a><br>
       重量と回数を入れるだけで、筋トレを記録できる<br>
       <img src="https://skillicons.dev/icons?i=flutter" width="28" height="28" alt="Flutter" title="Flutter"><br>
-      <a href="https://apps.apple.com/jp/app/id6826307654"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store"></a>
+      <a href="https://apps.apple.com/jp/app/id6826307654"><img src="images/badges/app-store.svg" alt="App Store"></a>
       <br><br>
     </td>
     <td align="center" valign="top">
@@ -30,7 +30,7 @@
       <a href="https://apps.apple.com/jp/app/id6829263258"><b>ひけし</b></a><br>
       消防用設備を自分で点検し、報告書を PDF で作れる<br>
       <img src="https://skillicons.dev/icons?i=flutter" width="28" height="28" alt="Flutter" title="Flutter"><br>
-      <a href="https://apps.apple.com/jp/app/id6829263258"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store"></a>
+      <a href="https://apps.apple.com/jp/app/id6829263258"><img src="images/badges/app-store.svg" alt="App Store"></a>
       <br><br>
     </td>
   </tr>
@@ -41,8 +41,8 @@
       <a href="https://emoojie.web.app/"><b>Emoojie</b></a><br>
       絵文字を簡単に作って、Slack に登録できる<br>
       <img src="https://skillicons.dev/icons?i=react" width="28" height="28" alt="React" title="React"> <img src="https://skillicons.dev/icons?i=firebase" width="28" height="28" alt="Firebase" title="Firebase"> <img src="images/tech/googlechrome.svg" width="28" height="28" alt="Manifest V3" title="Manifest V3"><br>
-      <a href="https://emoojie.web.app/"><img src="https://img.shields.io/badge/Web-FF7043?style=flat-square" alt="Web"></a>
-      <a href="https://chromewebstore.google.com/detail/emoojie/ekdgmkjbchccmbpgnjambbgfgakobhkl"><img src="https://img.shields.io/badge/Chrome_拡張-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome 拡張"></a>
+      <a href="https://emoojie.web.app/"><img src="images/badges/web.svg" alt="Web"></a>
+      <a href="https://chromewebstore.google.com/detail/emoojie/ekdgmkjbchccmbpgnjambbgfgakobhkl"><img src="images/badges/chrome-extension.svg" alt="Chrome 拡張"></a>
       <br><br>
     </td>
     <td align="center" valign="top">
@@ -51,7 +51,7 @@
       <a href="https://cameidoscope.web.app/"><b>cameidoscope</b></a><br>
       日本各地のライブカメラを、地図から探せる<br>
       <img src="https://skillicons.dev/icons?i=react" width="28" height="28" alt="React" title="React"> <img src="images/tech/maplibre.svg" width="28" height="28" alt="MapLibre GL JS" title="MapLibre GL JS"> <img src="https://skillicons.dev/icons?i=firebase" width="28" height="28" alt="Firebase" title="Firebase"><br>
-      <a href="https://cameidoscope.web.app/"><img src="https://img.shields.io/badge/Web-FF7043?style=flat-square" alt="Web"></a>
+      <a href="https://cameidoscope.web.app/"><img src="images/badges/web.svg" alt="Web"></a>
       <br><br>
     </td>
   </tr>
@@ -62,7 +62,7 @@
       <a href="https://ihideck.github.io/chronology/"><b>chronology</b></a><br>
       総理大臣・元号・偉人などの年表のあつまり<br>
       <img src="https://skillicons.dev/icons?i=js" width="28" height="28" alt="JavaScript" title="JavaScript"> <img src="https://skillicons.dev/icons?i=github" width="28" height="28" alt="GitHub Pages" title="GitHub Pages"><br>
-      <a href="https://ihideck.github.io/chronology/"><img src="https://img.shields.io/badge/Web-FF7043?style=flat-square" alt="Web"></a>
+      <a href="https://ihideck.github.io/chronology/"><img src="images/badges/web.svg" alt="Web"></a>
       <br><br>
     </td>
     <td align="center" valign="top">
@@ -71,8 +71,8 @@
       <a href="https://ihideck.github.io/geojson/"><b>geojson</b></a><br>
       日本と世界の陸と海の境界を、地図や GIS で使える<br>
       <img src="https://skillicons.dev/icons?i=py" width="28" height="28" alt="Python" title="Python"> <img src="images/tech/gdal.svg" width="28" height="28" alt="GDAL" title="GDAL"> <img src="images/tech/maplibre.svg" width="28" height="28" alt="MapLibre GL JS" title="MapLibre GL JS"><br>
-      <a href="https://ihideck.github.io/geojson/"><img src="https://img.shields.io/badge/Web-FF7043?style=flat-square" alt="Web"></a>
-      <a href="https://github.com/iHideck/geojson"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+      <a href="https://ihideck.github.io/geojson/"><img src="images/badges/web.svg" alt="Web"></a>
+      <a href="https://github.com/iHideck/geojson"><img src="images/badges/github.svg" alt="GitHub"></a>
       <br><br>
     </td>
   </tr>
@@ -83,7 +83,7 @@
       <a href="https://github.com/iHideck/asc-mcp"><b>asc-mcp</b></a><br>
       App Store へのリリース作業を、Claude Code に頼める<br>
       <img src="https://skillicons.dev/icons?i=ts" width="28" height="28" alt="TypeScript" title="TypeScript"> <img src="images/tech/modelcontextprotocol.svg" width="28" height="28" alt="MCP" title="MCP"> <img src="images/tech/appstore.svg" width="28" height="28" alt="App Store Connect API" title="App Store Connect API"><br>
-      <a href="https://github.com/iHideck/asc-mcp"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+      <a href="https://github.com/iHideck/asc-mcp"><img src="images/badges/github.svg" alt="GitHub"></a>
       <br><br>
     </td>
   </tr>
