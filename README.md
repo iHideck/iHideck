@@ -77,13 +77,42 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" colspan="2">
+    <td align="center" valign="top">
       <br>
       <a href="https://github.com/iHideck/asc-mcp"><img src="images/asc-mcp.png" width="64" height="64" alt="asc-mcp"></a><br>
       <a href="https://github.com/iHideck/asc-mcp"><b>asc-mcp</b></a><br>
-      App Store へのリリース作業を、Claude Code に頼める<br>
+      App Store のリリースを、Claude Code に頼める<br>
       <img src="https://skillicons.dev/icons?i=ts" width="28" height="28" alt="TypeScript" title="TypeScript"> <img src="images/tech/modelcontextprotocol.svg" width="28" height="28" alt="MCP" title="MCP"> <img src="images/tech/appstore.svg" width="28" height="28" alt="App Store Connect API" title="App Store Connect API"><br>
       <a href="https://github.com/iHideck/asc-mcp"><img src="images/badges/github.svg" alt="GitHub"></a>
+      <br><br>
+    </td>
+    <td align="center" valign="top">
+      <br>
+      <a href="https://github.com/iHideck/gpc-mcp"><img src="images/gpc-mcp.png" width="64" height="64" alt="gpc-mcp"></a><br>
+      <a href="https://github.com/iHideck/gpc-mcp"><b>gpc-mcp</b></a><br>
+      Google Play のリリースを、Claude Code に頼める<br>
+      <img src="https://skillicons.dev/icons?i=ts" width="28" height="28" alt="TypeScript" title="TypeScript"> <img src="images/tech/modelcontextprotocol.svg" width="28" height="28" alt="MCP" title="MCP"> <img src="images/tech/googleplay.svg" width="28" height="28" alt="Google Play" title="Google Play"><br>
+      <a href="https://github.com/iHideck/gpc-mcp"><img src="images/badges/github.svg" alt="GitHub"></a>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <br>
+      <a href="https://x.com/NenrinTimes100y"><img src="images/nenrin-times.png" width="64" height="64" alt="年輪新聞"></a><br>
+      <a href="https://x.com/NenrinTimes100y"><b>年輪新聞</b></a><br>
+      百年前の今朝の朝刊を、毎朝 X に届ける<br>
+      <img src="https://skillicons.dev/icons?i=py" width="28" height="28" alt="Python" title="Python"> <img src="https://skillicons.dev/icons?i=flutter" width="28" height="28" alt="Flutter" title="Flutter"> <img src="https://skillicons.dev/icons?i=firebase" width="28" height="28" alt="Firebase" title="Firebase"> <img src="https://skillicons.dev/icons?i=gcp" width="28" height="28" alt="Google Cloud" title="Google Cloud"><br>
+      <a href="https://x.com/NenrinTimes100y"><img src="images/badges/x.svg" alt="X"></a>
+      <br><br>
+    </td>
+    <td align="center" valign="top">
+      <br>
+      <img src="images/snoretalk.png" width="64" height="64" alt="SnoreTalk"><br>
+      <b>SnoreTalk</b><br>
+      いびき・寝言の、いつもと違う夜だけ知らせる<br>
+      <img src="https://skillicons.dev/icons?i=swift" width="28" height="28" alt="Swift" title="Swift"><br>
+      <img src="images/badges/wip.svg" alt="開発中">
       <br><br>
     </td>
   </tr>
