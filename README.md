@@ -37,6 +37,26 @@
   <tr>
     <td align="center" valign="top">
       <br>
+      <a href="https://apps.apple.com/jp/app/id6831431413"><img src="images/languessr.png" width="64" height="64" alt="Languessr"></a><br>
+      <a href="https://apps.apple.com/jp/app/id6831431413"><b>Languessr</b></a><br>
+      Wikipedia の文章を読んで、何語かを当てる<br>
+      <img src="https://skillicons.dev/icons?i=flutter" width="28" height="28" alt="Flutter" title="Flutter"> <img src="https://skillicons.dev/icons?i=firebase" width="28" height="28" alt="Firebase" title="Firebase"> <img src="https://skillicons.dev/icons?i=ts" width="28" height="28" alt="TypeScript" title="TypeScript"> <img src="https://skillicons.dev/icons?i=py" width="28" height="28" alt="Python" title="Python"><br>
+      <a href="https://apps.apple.com/jp/app/id6831431413"><img src="images/badges/app-store.svg" alt="App Store"></a>
+      <br><br>
+    </td>
+    <td align="center" valign="top">
+      <br>
+      <a href="https://apps.apple.com/jp/app/id6832318170"><img src="images/zettai-kyorikan-battle.png" width="64" height="64" alt="絶対距離感バトル"></a><br>
+      <a href="https://apps.apple.com/jp/app/id6832318170"><b>絶対距離感バトル</b></a><br>
+      日本の2地点の直線距離を、勘で当てる<br>
+      <img src="https://skillicons.dev/icons?i=flutter" width="28" height="28" alt="Flutter" title="Flutter"><br>
+      <a href="https://apps.apple.com/jp/app/id6832318170"><img src="images/badges/app-store.svg" alt="App Store"></a>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <br>
       <a href="https://emoojie.web.app/"><img src="images/emoojie.png" width="64" height="64" alt="Emoojie"></a><br>
       <a href="https://emoojie.web.app/"><b>Emoojie</b></a><br>
       絵文字を簡単に作って、Slack に登録できる<br>
