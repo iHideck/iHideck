@@ -136,6 +136,17 @@
       <br><br>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="top">
+      <br>
+      <a href="https://ihideck.github.io/langmap/"><img src="images/langmap.png" width="64" height="64" alt="langmap"></a><br>
+      <a href="https://ihideck.github.io/langmap/"><b>langmap</b></a><br>
+      世界の言語が話されている所を、地図で見られる<br>
+      <img src="https://skillicons.dev/icons?i=ts" width="28" height="28" alt="TypeScript" title="TypeScript"> <img src="https://skillicons.dev/icons?i=vite" width="28" height="28" alt="Vite" title="Vite"> <img src="https://skillicons.dev/icons?i=github" width="28" height="28" alt="GitHub Pages" title="GitHub Pages"><br>
+      <a href="https://ihideck.github.io/langmap/"><img src="images/badges/web.svg" alt="Web"></a>
+      <br><br>
+    </td>
+  </tr>
 </table>
 
 iOS アプリの一覧は [App Store の開発者ページ](https://apps.apple.com/jp/developer/hideki-ishikawa/id884748611) にあります。
